@@ -1,0 +1,49 @@
+body {
+  background-color: #ADD8E6;
+}
+
+/* Add padding to the main content */
+.content-wrapper, .main-content, .site-content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.content-wrapper, .main-content, .gallery-content {
+  display: flex;
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically (if required) */
+  text-align: center; /* Centers text */
+}
+
+/* Underline all links */
+a {
+  text-decoration: underline;
+}
+
+/* Center the content horizontally and vertically */
+body {
+  display: flex;
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  min-height: 100vh; /* Ensures the body takes up the full viewport height */
+  margin: 0; /* Remove default margins */
+}
+
+/* Ensure that content like headers, main sections, and footers are also centered */
+.header, .footer, .main-content, .content-wrapper {
+  max-width: 800px; /* Adjust the maximum width as needed */
+  width: 100%;
+  text-align: center;
+}
+
+.featured-pages {
+  display: flex;
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+.featured-page {
+  margin-right: 1rem;
+}
+
