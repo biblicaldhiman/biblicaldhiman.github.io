@@ -10,7 +10,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   author: Rajat Dhiman
   customCSS:
-    - css/custom.css
+  - css/custom.css
   description: 'Rajat Dhiman, Follower of Jesus Christ in India'
   defaultTheme: auto
   ShowShareButtons: false
