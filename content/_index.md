@@ -11,15 +11,21 @@ featured: false
 
 [//]: # ({{< youtube kpII3F8UNd0 >}})
 
-## Endorsements
+[//]: # (## Endorsements)
 
-- > "This is an amazing service! Highly recommended."
-  
-  John Doe
+[//]: # ()
+[//]: # (- > "This is an amazing service! Highly recommended.")
 
-  CEO, Company Inc.
-- > "Fantastic experience working with this team."
-  
-  Jane Smith
+[//]: # (  )
+[//]: # (  John Doe)
 
-  CTO, Another Company
+[//]: # ()
+[//]: # (  CEO, Company Inc.)
+
+[//]: # (- > "Fantastic experience working with this team.")
+
+[//]: # (  )
+[//]: # (  Jane Smith)
+
+[//]: # ()
+[//]: # (  CTO, Another Company)
