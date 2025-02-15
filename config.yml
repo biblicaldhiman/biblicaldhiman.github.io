@@ -36,7 +36,7 @@ params:
       
       
       I run a Christian YouTube channel called “Biblical Dhiman” to defend and answer questions raised against Christianity, God and the Bible.
-
+  
   
       Watch the video podcast on [YouTube](https://www.youtube.com/@BiblicalDhiman/featured).
   
@@ -82,6 +82,10 @@ menu:
       identifier: contact
       weight: 400
       url: /contact
+    - name: RESOURCES
+      identifier: resources
+      weight: 500
+      url: /resources
 
 DefaultContentLanguage: 'en'
 languages:
