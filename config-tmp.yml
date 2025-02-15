@@ -2,7 +2,7 @@ baseURL: 'https://biblicaldhiman.github.io/'
 languageCode: 'en-us'
 title: 'Rajat Dhiman'
 enableRobotsTXT: true
-theme: PaperMod 
+theme: hugo-universal-theme 
 
 params:
   theme: "dark"

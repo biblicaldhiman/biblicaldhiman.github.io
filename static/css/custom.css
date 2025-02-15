@@ -47,3 +47,14 @@ body {
   margin-right: 1rem;
 }
 
+.iframe-container {
+  display: block;          /* Ensures the iframe is treated as a block element */
+  margin: 0 auto;          /* Centers the iframe horizontally */
+  padding: 20px;           /* Adds padding inside the container */
+  text-align: center;      /* Centers iframe inside if needed */
+}
+
+iframe {
+  width: 100%;             /* Makes iframe responsive (100% width of the container) */
+  height: 600px;           /* Set height as needed */
+}
