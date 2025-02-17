@@ -111,7 +111,7 @@ pre = "<i class='fa-brands fa-2x fa-youtube'></i>"
 [[menu.topbar]]
 weight = 6
 name = "Spotify"
-url = "https://www.youtube.com/@BiblicalDhiman/featured "
+url = "https://www.youtube.com/@BiblicalDhiman/featured"
 pre = "<i class='fa-brands fa-2x fa-spotify'></i>"
 
 [params]
@@ -163,16 +163,15 @@ contact_form_ajax = true
 enableRecaptchaInContactForm = false
 googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-about_us = "<p>👋 I am Rajat Dhiman, a born-again Christian from India.<br/>I run a Christian YouTube channel called “Biblical Dhiman” to defend and answer questions raised against Christianity, God and the Bible. <br>Watch the video podcast on YouTube.<br>    Listen to my audio podcast on Spotify and Apple Podcast.</p>"
-copyright = "Copyright (c) 2025 - Preset, Rajat Dhiman; all rights reserved."
+copyright = "Copyright (c) 2025 - Present, Rajat Dhiman"
 
 # Format dates with Go's time formatting
 date_format = "January 2, 2006"
 
 dropdown_mouse_over = false
 
-disabled_logo = false
-logo_text = "Rajat Dhiman"
+disabled_logo = true
+logo_text = "Biblical Dhiman"
 
 logo = "https://assets.about.me/background/users/b/i/b/biblical_dhiman_1671217535_663.jpg"
 logo_small = "https://assets.about.me/background/users/b/i/b/biblical_dhiman_1671217535_663.jpg"
@@ -183,8 +182,8 @@ blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
-enable = true
-text = ""
+enable = false
+text = "Connect with me on Social Media"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -229,15 +228,15 @@ title = "Testimonials"
 subtitle = "I have interviewed with many scholars and I always like to hear their experience. Have a look what my guests said about me."
 
 [params.see_more]
-enable = false
-icon = "far fa-file-alt"
+enable = true
+icon = "fa-brands fa-youtube"
 title = "Do you want to learn more?"
-subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-link_url = "#"
-link_text = "Check other homepages"
+subtitle = "You can find all the podcasts on my YouTube Channel."
+link_url = "https://www.youtube.com/@BiblicalDhiman/featured"
+link_text = "Visit my YouTube Channel"
 
 [params.clients]
-enable = true
+enable = false
 # All clients are defined in their own files. You can find example items
 # at 'exampleSite/data/clients'.
 # For more information take a look at the README.
@@ -246,9 +245,9 @@ subtitle = ""
 
 [params.recent_posts]
 enable = false
-title = "From our blog"
+title = "Recent Videos"
 subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
-hide_summary = false
+hide_summary = true
 
 [params.footer.recent_posts]
 enable = false
