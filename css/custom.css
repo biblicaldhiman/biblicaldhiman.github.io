@@ -59,3 +59,12 @@ iframe {
   width: 80%;             /* Makes iframe responsive (100% width of the container) */
   height: 400px;           /* Set height as needed */
 }
+
+.home-carousel {
+  position: relative;
+  background: url('../img/logo.png') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
