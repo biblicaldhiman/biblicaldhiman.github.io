@@ -170,11 +170,11 @@ date_format = "January 2, 2006"
 
 dropdown_mouse_over = false
 
-disabled_logo = true
+disabled_logo = false
 logo_text = "Biblical Dhiman"
 
-logo = "https://assets.about.me/background/users/b/i/b/biblical_dhiman_1671217535_663.jpg"
-logo_small = "https://assets.about.me/background/users/b/i/b/biblical_dhiman_1671217535_663.jpg"
+logo = "img/logo.png"
+logo_small = "img/logo.png"
 contact_url = "/contact"
 
 [permalinks]
