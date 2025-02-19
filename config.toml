@@ -105,13 +105,13 @@ pre = "<i class='fas fa-2x fa-envelope'></i>"
 [[menu.topbar]]
 weight = 5
 name = "youtube"
-url = "https://www.youtube.com/@BiblicalDhiman/featured "
+url = "https://www.youtube.com/@BiblicalDhiman/featured"
 pre = "<i class='fa-brands fa-2x fa-youtube'></i>"
 
 [[menu.topbar]]
 weight = 6
 name = "Spotify"
-url = "https://www.youtube.com/@BiblicalDhiman/featured"
+url = "https://open.spotify.com/show/2Ov2HrUlLcQWERnJifyJhs"
 pre = "<i class='fa-brands fa-2x fa-spotify'></i>"
 
 [params]

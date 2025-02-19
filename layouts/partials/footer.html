@@ -6,14 +6,15 @@
 <!-- *** COPYRIGHT ***
 _________________________________________________________ -->
 
-<div id="copyright">
-    <div class="container">
-        <div class="col-md-10">
-            {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+<div class="container">
+        Copyright (c) 2025 - Present, Rajat Dhiman
+
+
+        <div class="social">
+            {{ range .Site.Menus.topbar.ByWeight }}
+            <a href="{{ .URL | safeURL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
             {{ end }}
         </div>
-    </div>
 </div>
 
 <!-- /#copyright -->
