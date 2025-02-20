@@ -82,37 +82,37 @@ weight    = 7
 weight = 1
 name = "Instagram"
 url = "https://www.instagram.com/irajatism"
-pre = "<i class='fab fa-2x fa-instagram'></i>"
+pre = "<i class='fab fa-3x fa-instagram'></i>"
 
 [[menu.topbar]]
 weight = 2
 name = "Facebook"
 url = "https://www.facebook.com/dhiman.biblical"
-pre = "<i class='fab fa-2x fa-facebook'></i>"
+pre = "<i class='fab fa-3x fa-facebook'></i>"
 
 [[menu.topbar]]
 weight = 3
 name = "Twitter"
 url = "https://x.com/biblical_dhiman"
-pre = "<i class='fa-brands fa-2x fa-x-twitter'></i>"
+pre = "<i class='fa-brands fa-3x fa-x-twitter'></i>"
 
 [[menu.topbar]]
 weight = 4
 name = "Email"
 url = "mailto:rddhiman10@gmail.com"
-pre = "<i class='fas fa-2x fa-envelope'></i>"
+pre = "<i class='fas fa-3x fa-envelope'></i>"
 
 [[menu.topbar]]
 weight = 5
 name = "youtube"
 url = "https://www.youtube.com/@BiblicalDhiman/featured"
-pre = "<i class='fa-brands fa-2x fa-youtube'></i>"
+pre = "<i class='fa-brands fa-3x fa-youtube'></i>"
 
 [[menu.topbar]]
 weight = 6
 name = "Spotify"
 url = "https://open.spotify.com/show/2Ov2HrUlLcQWERnJifyJhs"
-pre = "<i class='fa-brands fa-2x fa-spotify'></i>"
+pre = "<i class='fa-brands fa-3x fa-spotify'></i>"
 
 [params]
 viewMorePostLink = "/blog/"
