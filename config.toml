@@ -224,6 +224,9 @@ enable = true
 # All testimonials are defined in their own files. You can find example items
 # at 'exampleSite/data/testimonials'.
 # For more information take a look at the README.
+auto_play = true
+slide_speed = 2000
+pagination_speed = 1000
 title = "Testimonials"
 subtitle = "I have interviewed with many scholars and I always like to hear their experience. Have a look what my guests said about me."
 
