@@ -115,11 +115,11 @@ url = "https://open.spotify.com/show/2Ov2HrUlLcQWERnJifyJhs"
 pre = "<i class='fa-brands fa-3x fa-spotify'></i>"
 
 [params]
-viewMorePostLink = "/blog/"
-author = "Rajat Dhiman"
-defaultKeywords = ["RajatDhiman", "hugo", "go"]
-mainSections = ["blog"]
-defaultDescription = "Rajat Dhiman"
+  viewMorePostLink = "/blog/"
+  author = "Rajat Dhiman"
+  defaultKeywords = ["RajatDhiman", "hugo", "go"]
+  defaultDescription = "Rajat Dhiman"
+  email = "rohankanojia420@gmx.com"
 
 # Social media
 facebook_site = "https://www.facebook.com/dhiman.biblical" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -143,7 +143,7 @@ style = "default"
 # - you're done. Happy mailing!
 #
 # Enable the contact form by entering your Formspree.io endpoint url
-formspree_action = "https://formspree.io/sample/of/endpoint"
+formspree_action = "https://formspree.io/f/meoedlby"
 contact_form_ajax = true
 
 # Formspree form supports Google reCAPTCHA Key (type v2).
@@ -160,8 +160,8 @@ contact_form_ajax = true
 #   5. change `enableRecaptchaInContactForm` is to true
 #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
 #
-enableRecaptchaInContactForm = false
-googleRecaptchaKey = "site_key_for_google_recaptcha"
+enableRecaptchaInContactForm = true
+googleRecaptchaKey = "6LfyRt8qAAAAABzjhulClbPcx9skEuZSFdDgCrtx"
 
 copyright = "Copyright (c) 2025 - Present, Rajat Dhiman"
 
