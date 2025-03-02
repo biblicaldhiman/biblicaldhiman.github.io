@@ -119,7 +119,7 @@ pre = "<i class='fa-brands fa-3x fa-spotify'></i>"
   author = "Rajat Dhiman"
   defaultKeywords = ["RajatDhiman", "hugo", "go"]
   defaultDescription = "Rajat Dhiman"
-  email = "rohankanojia420@gmx.com"
+  email = "rddhiman10@gmail.com"
 
 # Social media
 facebook_site = "https://www.facebook.com/dhiman.biblical" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -170,11 +170,11 @@ date_format = "January 2, 2006"
 
 dropdown_mouse_over = false
 
-disabled_logo = false
+disabled_logo = true
 logo_text = "Biblical Dhiman"
 
-logo = "img/logo.png"
-logo_small = "img/logo.png"
+#logo = "img/logo.png"
+#logo_small = "img/logo.png"
 contact_url = "/contact"
 
 [permalinks]
