@@ -1,6 +1,8 @@
-# **About Rajat**
 ---
-
+title: "About Rajat"
+description: "About Rajat"
+toc: false
+---
 ## Quick Bio
 
 I am Rajat Dhiman, a born-again Christian from India. I run a Christian YouTube channel called “Biblical Dhiman” to defend and answer questions raised against Christianity, God and the Bible.
