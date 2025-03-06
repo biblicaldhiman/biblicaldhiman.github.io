@@ -2,3 +2,10 @@
     background-image: url("img/BiblicalDhimanBackground.png ");
     background-position: center center;
 }
+
+.zoom {
+    transition: transform .2s; /* Animation */
+}
+.zoom:hover {
+    transform: scale(1.3); /* (150% zoom) */
+}
