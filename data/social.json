@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/dhiman.biblical"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://x.com/biblical_dhiman/"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/irajatism/"
+    }
+  ]
+}
