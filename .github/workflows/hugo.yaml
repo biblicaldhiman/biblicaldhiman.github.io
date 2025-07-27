@@ -38,7 +38,7 @@ jobs:
         run: npm install --save-dev tailwindcss @tailwindcss/cli
 
       - name: Build site
-        run: hugo --gc --minify  --cleanDestinationDir --baseURL="https://biblicaldhiman.github.io/"
+        run: hugo --gc --minify  --cleanDestinationDir --baseURL "https://biblicaldhiman.github.io/"
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4

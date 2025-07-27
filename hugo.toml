@@ -1,7 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "https://biblicaldhiman.github.io/"
-relativeURLs = false
 canonifyURLs = true
 # Title of your website (required).
 title = "Biblical Dhiman"
