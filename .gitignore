@@ -1,27 +1,17 @@
-# Hugo output directory
-.idea
-/public/
-/resources/
-hugo_stats.json
-
-# Node modules
-/node_modules/
-package-lock.json
-
-# Tailwind build output (optional, if not committed)
-/assets/css/output.css
-
-
-# OS & Editor files
+Thumbs.db
 .DS_Store
-*.log
-*.swp
-*.swo
-*.bak
-*.tmp
-*.env
-.env.*
-
-# VS Code settings (optional)
-.vscode/
-
+.dist
+.tmp
+.lock
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+public
+resources
+.hugo_build.lock
+jsconfig.json
+hugo_stats.json
+go.sum
+yarn.lock
