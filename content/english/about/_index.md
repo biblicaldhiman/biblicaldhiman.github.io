@@ -6,12 +6,10 @@ image: "https://about.me/cdn-cgi/image/q=40,dpr=2,f=auto,fit=contain,w=1200,h=12
 draft: false
 ---
 
-A born-again Christian from India. I run a Christian YouTube channel called “Biblical Dhiman” to defend and answer questions raised against Christianity, God and the Bible.
+I'm the host of the Biblical Dhiman YouTube Podcast — a space where we tackle skeptical questions raised against the Bible, God, and the Christian faith. My goal is to explore truth through honest conversations and thoughtful study.
+My journey with Jesus began at the age of 16. As I dug deep into the Scriptures and studied the claims of Christianity, I arrived at two life-changing conclusions:
+- God is not an idol made by humans.
 
-When I was 16, I encountered the truth that God is not in the idol and salvation cannot be earned through works but is a free gift of God. I have experienced God’s presence. In addition, I have a conviction that God does exist.
+- We cannot earn salvation by doing good works.
 
-Jesus said:
-
-> and you will know the truth and the truth will set you free.
-
-John 8:32
+This theological awakening led to a radical transformation in my worldview and life purpose. Today, I am committed to helping others engage deeply with Scripture, examine difficult questions honestly, and discover the truth of the gospel with intellectual integrity and spiritual clarity.
