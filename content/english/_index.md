@@ -3,9 +3,10 @@
 banner:
   title: "And you shall know the truth, and truth shall make you free"
   content: "Gospel of John 8:32, NKJV"
-  image: "/images/logo.png"
+  image: "/images/Background-banner-800x.png"
   button:
     enable: true
+    color: "#0F2540"
     label: "Listen to my Podcast"
     link: "https://www.youtube.com/@BiblicalDhiman"
 
