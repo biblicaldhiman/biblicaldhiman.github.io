@@ -2,7 +2,7 @@
 title: "Hey, I am Rajat Dhiman!"
 meta_title: "About"
 description: "this is meta description"
-image: "https://about.me/cdn-cgi/image/q=40,dpr=2,f=auto,fit=contain,w=1200,h=1200/https://assets.about.me/background/users/b/i/b/biblical_dhiman_1671217535_663.jpg"
+image: "/images/avatar.jpeg"
 draft: false
 ---
 

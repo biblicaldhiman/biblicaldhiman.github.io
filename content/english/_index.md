@@ -13,7 +13,7 @@ banner:
 # Features
 features:
   - title: "About me"
-    image: "/images/avatar.png"
+    image: "/images/avatar.jpeg"
     content: "Hi, I’m Rajat Dhiman, the host of the Biblical Dhiman YouTube Podcast—a space where we tackle skeptical questions raised against the Bible, God, and the Christian faith. My goal is to explore truth through honest conversations and thoughtful study.
 My journey with Jesus began at the age of 16. As I dug deep into the Scriptures and studied the claims of Christianity, I arrived at two life-changing conclusions (mentioned below).
 <br><br>
