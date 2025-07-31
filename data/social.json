@@ -14,6 +14,16 @@
       "name": "github",
       "icon": "fab fa-instagram",
       "link": "https://www.instagram.com/irajatism/"
+    },
+    {
+      "name": "spotify-podcast",
+      "icon": "fab fa-spotify",
+      "link": "https://open.spotify.com/show/2Ov2HrUlLcQWERnJifyJhs"
+    },
+    {
+      "name": "apple-podcast",
+      "icon": "fab fa-apple",
+      "link": "https://podcasts.apple.com/us/podcast/biblical-dhiman/id1646225812"
     }
   ]
 }

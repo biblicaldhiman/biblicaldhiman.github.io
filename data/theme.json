@@ -2,10 +2,10 @@
   "colors": {
     "default": {
     "theme_color": {
-      "primary": "#F7B500",
-      "body": "#ffffcc",
+      "primary": "#1E1E3F",
+      "body": "#F5EED8",
       "border": "#E0E0E4",
-      "light": "#fcc203",
+      "light": "#E0E0E4",
       "dark": "#1E1E3F"
     },
       "text_color": {

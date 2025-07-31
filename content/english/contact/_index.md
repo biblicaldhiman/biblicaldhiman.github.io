@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Contact Biblical Dhiman"
+description: "Contact me"
 draft: false
 ---
