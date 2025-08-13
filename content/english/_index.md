@@ -20,8 +20,7 @@ My journey with Jesus began at the age of 16. As I dug deep into the Scriptures 
 1.⁠ ⁠God is not an idol made by humans.<br>
 2.⁠ ⁠We cannot earn salvation by doing good works.
 <br><br>
-This theological awakening led to a radical transformation in my worldview and life purpose. Today, I am committed to helping others engage deeply with Scripture, examine difficult questions honestly, and discover the truth of the gospel with intellectual integrity and spiritual clarity.
-"
+This theological awakening led to a radical transformation in my worldview and life purpose. Today, I am committed to helping others engage deeply with Scripture, examine difficult questions honestly, and discover the truth of the gospel with intellectual integrity and spiritual clarity."
     button:
       enable: false
       label: ""
